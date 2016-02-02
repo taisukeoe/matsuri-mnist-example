@@ -1,0 +1,13 @@
+*.class
+*.log
+.idea/
+.java-version
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+project/target/
+sbt
